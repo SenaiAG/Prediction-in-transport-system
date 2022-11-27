@@ -1,2 +1,2 @@
 
-Codes and datasets I will commit to this repository with descriptions and explanations. 
+The code and datasets I will commit to this repository with descriptions and explanations. 
